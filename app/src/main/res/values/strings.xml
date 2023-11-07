@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Manage Photos</string>
+    <string name="add_photos">Add Photos</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="photos_are_the_first_thing">Photos are the first thing members look in your profile. Add multiple photos to get more matches</string>
+    <string name="drag_photos_to_reorder">Drag photos to reorder, First photo will be displayed as your profile photo</string>
+    <string name="delete_photo">Delete Photo</string>
+    <string name="want_to_delete_photo">Members with multiple photos get better responses.Do you still want to delete this photos?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="upload_from_gallery">Upload from gallery</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="whatsapp_your_photo">Whatsapp your photo to us @</string>
+
+
+
+</resources>
